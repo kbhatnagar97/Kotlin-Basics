@@ -1,12 +1,13 @@
 import kotlin.system.exitProcess
-
 fun main()
 {
     var a : Int?
     var b : Int?
     try
     {
+        print("Enter the first number: ")
         a = readLine()!!.toInt()
+        print("Enter the second number: ")
         b = readLine()!!.toInt()
     }
     catch (e: NumberFormatException)

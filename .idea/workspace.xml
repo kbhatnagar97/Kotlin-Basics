@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="417f84c7-852d-4652-9433-aadd995c85a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MiniAssignment-1/FlattenKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MiniAssignment-1/FlattenKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MiniAssignment-1/META-INF/MiniAssignment-1.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MiniAssignment-1/META-INF/MiniAssignment-1.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/digitFrequency.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/digitFrequency.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flatten.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/flatten.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pyramid.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,20 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Kotlin.FlattenKt">
+  <component name="RunManager" selected="Kotlin.ChunkingKt">
+    <configuration name="ChunkingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="MiniAssignment-1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ChunkingKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DigitFrequencyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="MiniAssignment-1" />
       <option name="VM_PARAMETERS" />
@@ -79,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ChunkingKt" />
         <item itemvalue="Kotlin.FlattenKt" />
         <item itemvalue="Kotlin.DigitFrequencyKt" />
         <item itemvalue="Kotlin.PyramidKt" />
@@ -111,22 +128,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="738" y="296" width="501" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582379516993" />
-    <state width="1807" height="254" key="GridCell.Tab.0.bottom" timestamp="1582481740632">
+    <state width="1807" height="254" key="GridCell.Tab.0.bottom" timestamp="1582495479690">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="254" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582481740632" />
-    <state width="1807" height="254" key="GridCell.Tab.0.center" timestamp="1582481740630">
+    <state width="1807" height="254" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582495479690" />
+    <state width="1807" height="254" key="GridCell.Tab.0.center" timestamp="1582495479689">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="254" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582481740630" />
-    <state width="1807" height="254" key="GridCell.Tab.0.left" timestamp="1582481740629">
+    <state width="1807" height="254" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582495479689" />
+    <state width="1807" height="254" key="GridCell.Tab.0.left" timestamp="1582495479689">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="254" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582481740629" />
-    <state width="1807" height="254" key="GridCell.Tab.0.right" timestamp="1582481740631">
+    <state width="1807" height="254" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582495479689" />
+    <state width="1807" height="254" key="GridCell.Tab.0.right" timestamp="1582495479690">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="254" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582481740631" />
+    <state width="1807" height="254" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582495479690" />
     <state x="480" y="350" key="SettingsEditor" timestamp="1582480684566">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

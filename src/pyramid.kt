@@ -1,9 +1,9 @@
-
 fun main()
 {
     var n : Int?
     try
     {
+        print("Enter any integer value: ")
         n = readLine()!!.toInt()
 
     }
