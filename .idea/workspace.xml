@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="417f84c7-852d-4652-9433-aadd995c85a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MiniAssignment-1/FlattenKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MiniAssignment-1/FlattenKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MiniAssignment-1/META-INF/MiniAssignment-1.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MiniAssignment-1/META-INF/MiniAssignment-1.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/digitFrequency.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/digitFrequency.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flatten.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/flatten.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pyramid.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pyramid.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chunking.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chunking.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,30 +124,30 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="738" y="296" width="501" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582379516993" />
-    <state width="1807" height="254" key="GridCell.Tab.0.bottom" timestamp="1582495479690">
+    <state width="1807" height="245" key="GridCell.Tab.0.bottom" timestamp="1582497591110">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="254" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582495479690" />
-    <state width="1807" height="254" key="GridCell.Tab.0.center" timestamp="1582495479689">
+    <state width="1807" height="245" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582497591110" />
+    <state width="1807" height="245" key="GridCell.Tab.0.center" timestamp="1582497591109">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="254" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582495479689" />
-    <state width="1807" height="254" key="GridCell.Tab.0.left" timestamp="1582495479689">
+    <state width="1807" height="245" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582497591109" />
+    <state width="1807" height="245" key="GridCell.Tab.0.left" timestamp="1582497591108">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="254" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582495479689" />
-    <state width="1807" height="254" key="GridCell.Tab.0.right" timestamp="1582495479690">
+    <state width="1807" height="245" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582497591108" />
+    <state width="1807" height="245" key="GridCell.Tab.0.right" timestamp="1582497591109">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="254" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582495479690" />
-    <state x="480" y="350" key="SettingsEditor" timestamp="1582480684566">
+    <state width="1807" height="245" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582497591109" />
+    <state x="496" y="209" width="1024" height="845" key="SettingsEditor" timestamp="1582497086107">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="480" y="350" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582480684566" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582480604967">
+    <state x="496" y="209" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582497086107" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582496185598">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582480604967" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582496185598" />
     <state x="657" y="253" key="run.anything.popup" timestamp="1582471198486">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
