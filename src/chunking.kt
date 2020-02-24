@@ -57,7 +57,6 @@ fun chunking_substitute(a : MutableList<Int>, n : Int, divisions : Int)
     var result : MutableList<List<Int>>? = mutableListOf<List<Int>>()
     for(i in 0..n-divisions+1 step divisions)
     {
-        print(i)
         var tempList : MutableList<Int>? = mutableListOf<Int>()
         for(j in i..i+divisions-1)
         {
